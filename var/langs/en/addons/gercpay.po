@@ -1,0 +1,199 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::gercpay"
+msgid "Gercpay payment add-on"
+msgstr "GercPay Payment Gateway"
+
+msgctxt "Addons::description::gercpay"
+msgid "Gercpay payment add-on for CS-Cart"
+msgstr "Payment Visa, Mastercard, ApplePay, GooglePay"
+
+msgctxt "Languages::gercpay"
+msgid "gercpay"
+msgstr "GercPay Payment Gateway"
+
+msgctxt "Languages::gercpay.settings.connection"
+msgid "gercpay.settings.connection"
+msgstr "Connection settings"
+
+msgctxt "Languages::gercpay.merchantaccount"
+msgid "gercpay.merchantAccount"
+msgstr "Merchant ID"
+
+msgctxt "Languages::gercpay.merchantsecretkey"
+msgid "gercpay.merchantSecretKey"
+msgstr "Secret key"
+
+msgctxt "Languages::gercpay.settings.transaction"
+msgid "gercpay.settings.transaction"
+msgstr "Payment settings"
+
+msgctxt "Languages::gercpay.currency"
+msgid "gercpay.currency"
+msgstr "Currency UAH"
+
+msgctxt "Languages::gercpay.settings.order_statuses"
+msgid "gercpay.settings.order_statuses"
+msgstr "Order statuses settings"
+
+
+msgctxt "Languages::gercpay.order_status.created"
+msgid "gercpay.order_status.Created"
+msgstr "New order"
+
+msgctxt "Languages::ttc_gercpay.order_status.created"
+msgid "ttc_gercpay.order_status.Created"
+msgstr "The order has been created, but the customer has not yet provided payment details."
+
+msgctxt "Languages::gercpay.order_status.inprocessing"
+msgid "gercpay.order_status.InProcessing"
+msgstr "In processing"
+
+msgctxt "Languages::ttc_gercpay.order_status.inprocessing"
+msgid "ttc_gercpay.order_status.InProcessing"
+msgstr "The order is still in the process of being processed by the payment gateway."
+
+msgctxt "Languages::gercpay.order_status.approved"
+msgid "gercpay.order_status.Approved"
+msgstr "Successful payment"
+
+msgctxt "Languages::ttc_gercpay.order_status.approved"
+msgid "ttc_gercpay.order_status.Approved"
+msgstr "The order was successfully paid by the client, the funds were debited from the card."
+
+msgctxt "Languages::gercpay.order_status.pending"
+msgid "gercpay.order_status.Pending"
+msgstr "Checked by Antifraud"
+
+msgctxt "Languages::ttc_gercpay.order_status.pending"
+msgid "ttc_gercpay.order_status.Pending"
+msgstr "Payment pending Anti Fraud"
+
+msgctxt "Languages::gercpay.order_status.expired"
+msgid "gercpay.order_status.Expired"
+msgstr "Payment term expired"
+
+msgctxt "Languages::ttc_gercpay.order_status.expired"
+msgid "ttc_gercpay.order_status.Expired"
+msgstr "The due date for payment of the order (invoice) has expired."
+
+msgctxt "Languages::gercpay.order_status.refundedvoided"
+msgid "gercpay.order_status.RefundedVoided"
+msgstr "Refund"
+
+msgctxt "Languages::ttc_gercpay.order_status.refundedvoided"
+msgid "ttc_gercpay.order_status.RefundedVoided"
+msgstr "In the case of a refund / unblocking operation."
+
+msgctxt "Languages::gercpay.order_status.declined"
+msgid "gercpay.order_status.Declined"
+msgstr "Declined"
+
+msgctxt "Languages::ttc_gercpay.order_status.declined"
+msgid "ttc_gercpay.order_status.Declined"
+msgstr "If it is impossible to carry out the operation."
+
+msgctxt "Languages::gercpay.order_status.refundinprocessing"
+msgid "gercpay.order_status.RefundInProcessing"
+msgstr "Refund in processing"
+
+msgctxt "Languages::ttc_gercpay.order_status.refundinprocessing"
+msgid "ttc_gercpay.order_status.RefundInProcessing"
+msgstr "If there are not enough funds on the balance of the store to return to the buyer."
+
+msgctxt "Languages::gercpay.payment.card_payment"
+msgid "gercpay.payment.card_payment"
+msgstr "Payment by card on the site"
+
+msgctxt "Languages::method"
+msgid "gercpay.method"
+msgstr "Method"
+
+msgctxt "Languages::merchantaccount"
+msgid "gercpay.merchantaccount"
+msgstr "Merchant ID"
+
+msgctxt "Languages::orderreference"
+msgid "gercpay.orderreference"
+msgstr "Order ID"
+
+msgctxt "Languages::amount"
+msgid "gercpay.amount"
+msgstr "Amount"
+
+msgctxt "Languages::operation"
+msgid "gercpay.operation"
+msgstr "Operation"
+
+msgctxt "Languages::currency"
+msgid "gercpay.currency"
+msgstr "Currency"
+
+msgctxt "Languages::phone"
+msgid "gercpay.phone"
+msgstr "Phone"
+
+msgctxt "Languages::createddate"
+msgid "gercpay.createddate"
+msgstr "Created date"
+
+msgctxt "Languages::cardpan"
+msgid "gercpay.cardpan"
+msgstr "Card Pan"
+
+msgctxt "Languages::cardtype"
+msgid "gercpay.cardtype"
+msgstr "Card Type"
+
+msgctxt "Languages::fee"
+msgid "gercpay.fee"
+msgstr "Fee"
+
+msgctxt "Languages::transactionid"
+msgid "gercpay.transactionid"
+msgstr "Transaction ID"
+
+msgctxt "Languages::transactionstatus"
+msgid "gercpay.transactionstatus"
+msgstr "Transaction status"
+
+msgctxt "Languages::merchantsignature"
+msgid "gercpay.merchantsignature"
+msgstr "Merchant signature"
+
+msgctxt "Languages::reason"
+msgid "gercpay.reason"
+msgstr "Reason"
+
+msgctxt "Languages::reasoncode"
+msgid "gercpay.reasoncode"
+msgstr "Reason code"
+
+msgctxt "Languages::gercpay.payment_approve"
+msgid "gercpay.payment_approve"
+msgstr "Order has been paid"
+
+msgctxt "Languages::gercpay.payment_approve_text"
+msgid "gercpay.payment_approve_text"
+msgstr "Your order has been successfully paid"
+
+msgctxt "Languages::gercpay.payment_decline"
+msgid "gercpay.payment_decline"
+msgstr "Payment declined"
+
+msgctxt "Languages::gercpay.payment_decline_text"
+msgid "gercpay.payment_decline_text"
+msgstr "Error: Your payment was declined"
+
+msgctxt "Languages::gercpay.payment_cancel"
+msgid "gercpay.payment_cancel"
+msgstr "Payment canceled"
+
+msgctxt "Languages::gercpay.payment_cancel_text"
+msgid "gercpay.payment_cancel_text"
+msgstr "Your payment was canceled"
+

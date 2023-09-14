@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>gercpay</id>
+    <version>1.0.0</version>
+    <priority>2000</priority>
+    <position>1</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+    <authors>
+        <author>
+            <name>GercPay</name>
+            <url>https://gercpay.com.ua</url>
+            <phone>+38 (0482) 30-00-32</phone>
+        </author>
+    </authors>
+    <supplier>GercPay</supplier>
+    <supplier_link>https://gercpay.com.ua</supplier_link>
+    <compatibility>
+        <core_version>
+            <min>4.6.1</min>
+        </core_version>
+        <conflicts>ds__gercpay</conflicts>
+        <core_edition>ULTIMATE,MULTIVENDOR</core_edition>
+    </compatibility>
+    <functions>
+        <item for="install">fn_gercpay_install</item>
+        <item for="uninstall">fn_gercpay_uninstall</item>
+    </functions>
+</addon>

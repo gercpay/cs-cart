@@ -1,0 +1,202 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::gercpay"
+msgid "Gercpay payment add-on"
+msgstr "GercPay - платежная система"
+
+msgctxt "Addons::description::gercpay"
+msgid "Gercpay payment add-on for CS-Cart"
+msgstr "Оплата Visa, Mastercard, ApplePay, GooglePay"
+
+msgctxt "Languages::gercpay"
+msgid "gercpay"
+msgstr "GercPay - платежная система"
+
+msgctxt "Languages::gercpay.settings.connection"
+msgid "gercpay.settings.connection"
+msgstr "Параметры подключения"
+
+msgctxt "Languages::gercpay.merchantaccount"
+msgid "gercpay.merchantAccount"
+msgstr "Идентификатор торговца"
+
+msgctxt "Languages::gercpay.merchantsecretkey"
+msgid "gercpay.merchantSecretKey"
+msgstr "Секретный ключ"
+
+msgctxt "Languages::gercpay.operation"
+msgid "gercpay.operation"
+msgstr "Операция"
+
+msgctxt "Languages::gercpay.settings.transaction"
+msgid "gercpay.settings.transaction"
+msgstr "Настройки платежа"
+
+msgctxt "Languages::gercpay.currency"
+msgid "gercpay.currency"
+msgstr "Валюта UAH"
+
+msgctxt "Languages::gercpay.settings.order_statuses"
+msgid "gercpay.settings.order_statuses"
+msgstr "Настройки статусов заказа"
+
+msgctxt "Languages::gercpay.order_status.created"
+msgid "gercpay.order_status.Created"
+msgstr "Новый платеж"
+
+msgctxt "Languages::ttc_gercpay.order_status.created"
+msgid "ttc_gercpay.order_status.Created"
+msgstr "Заказ был создан, но клиент еще не указал платежные реквизиты."
+
+msgctxt "Languages::gercpay.order_status.inprocessing"
+msgid "gercpay.order_status.InProcessing"
+msgstr "В обработке"
+
+msgctxt "Languages::ttc_gercpay.order_status.inprocessing"
+msgid "ttc_gercpay.order_status.InProcessing"
+msgstr "Заказ все еще находится в процессе обработки платежным шлюзом."
+
+msgctxt "Languages::gercpay.order_status.approved"
+msgid "gercpay.order_status.Approved"
+msgstr "Успешный платеж"
+
+msgctxt "Languages::ttc_gercpay.order_status.approved"
+msgid "ttc_gercpay.order_status.Approved"
+msgstr "Заказ успешно оплачен клиентом, средства списаны с карты."
+
+msgctxt "Languages::gercpay.order_status.pending"
+msgid "gercpay.order_status.Pending"
+msgstr "На проверке Anti Fraud"
+
+msgctxt "Languages::ttc_gercpay.order_status.pending"
+msgid "ttc_gercpay.order_status.Pending"
+msgstr "Платеж находится на проверке Anti Fraud"
+
+msgctxt "Languages::gercpay.order_status.expired"
+msgid "gercpay.order_status.Expired"
+msgstr "Истек срок оплаты"
+
+msgctxt "Languages::ttc_gercpay.order_status.expired"
+msgid "ttc_gercpay.order_status.Expired"
+msgstr "Истек срок оплаты заказа (счета)."
+
+msgctxt "Languages::gercpay.order_status.refundedvoided"
+msgid "gercpay.order_status.RefundedVoided"
+msgstr "Возврат"
+
+msgctxt "Languages::ttc_gercpay.order_status.refundedvoided"
+msgid "ttc_gercpay.order_status.RefundedVoided"
+msgstr "В случае операции возврата / разблокировки денег."
+
+msgctxt "Languages::gercpay.order_status.declined"
+msgid "gercpay.order_status.Declined"
+msgstr "Отклонено"
+
+msgctxt "Languages::ttc_gercpay.order_status.declined"
+msgid "ttc_gercpay.order_status.Declined"
+msgstr "В случае невозможности провести операцию."
+
+msgctxt "Languages::gercpay.order_status.refundinprocessing"
+msgid "gercpay.order_status.RefundInProcessing"
+msgstr "Возврат в обработке"
+
+msgctxt "Languages::ttc_gercpay.order_status.refundinprocessing"
+msgid "ttc_gercpay.order_status.RefundInProcessing"
+msgstr "В случае если недостаточно средств на балансе магазина для возврата покупателю."
+
+msgctxt "Languages::gercpay.payment.card_payment"
+msgid "gercpay.payment.card_payment"
+msgstr "Оплата картой на сайте"
+
+msgctxt "Languages::method"
+msgid "gercpay.method"
+msgstr "Метод"
+
+msgctxt "Languages::merchantaccount"
+msgid "gercpay.merchantaccount"
+msgstr "ID торговца"
+
+msgctxt "Languages::orderreference"
+msgid "gercpay.orderreference"
+msgstr "ID заказа"
+
+msgctxt "Languages::amount"
+msgid "gercpay.amount"
+msgstr "Сумма"
+
+msgctxt "Languages::operation"
+msgid "gercpay.operation"
+msgstr "Операция"
+
+msgctxt "Languages::currency"
+msgid "gercpay.currency"
+msgstr "Валюта"
+
+msgctxt "Languages::phone"
+msgid "gercpay.phone"
+msgstr "Тел."
+
+msgctxt "Languages::createddate"
+msgid "gercpay.createddate"
+msgstr "Дата создания"
+
+msgctxt "Languages::cardpan"
+msgid "gercpay.cardpan"
+msgstr "PAN карты"
+
+msgctxt "Languages::cardtype"
+msgid "gercpay.cardtype"
+msgstr "Тип карты"
+
+msgctxt "Languages::fee"
+msgid "gercpay.fee"
+msgstr "Комиссия"
+
+msgctxt "Languages::transactionid"
+msgid "gercpay.transactionid"
+msgstr "ID транзакции"
+
+msgctxt "Languages::transactionstatus"
+msgid "gercpay.transactionstatus"
+msgstr "Статус транзакции"
+
+msgctxt "Languages::merchantsignature"
+msgid "gercpay.merchantsignature"
+msgstr "Подпись торговца"
+
+msgctxt "Languages::reason"
+msgid "gercpay.reason"
+msgstr "Причина"
+
+msgctxt "Languages::reasoncode"
+msgid "gercpay.reasoncode"
+msgstr "Код ошибки"
+
+msgctxt "Languages::gercpay.payment_approve"
+msgid "gercpay.payment_approve"
+msgstr "Заказ оплачен"
+
+msgctxt "Languages::gercpay.payment_approve_text"
+msgid "gercpay.payment_approve_text"
+msgstr "Ваш заказ был успешно оплачен"
+
+msgctxt "Languages::gercpay.payment_decline"
+msgid "gercpay.payment_decline"
+msgstr "Платёж отклонён"
+
+msgctxt "Languages::gercpay.payment_decline_text"
+msgid "gercpay.payment_decline_text"
+msgstr "Ошибка: Ваш платёж отклонён"
+
+msgctxt "Languages::gercpay.payment_cancel"
+msgid "gercpay.payment_cancel"
+msgstr "Платёж отменён"
+
+msgctxt "Languages::gercpay.payment_cancel_text"
+msgid "gercpay.payment_cancel_text"
+msgstr "Ваш платёж отменён"
+
