@@ -10,8 +10,8 @@ use Tygh\Exceptions\InputException;
  */
 class Gercpay
 {
-    const PURCHASE_URL      = 'https://api.gercpay.com.ua/';
-    const API_URL           = 'https://api.gercpay.com.ua/';
+    const PURCHASE_URL      = 'https://api.gercpay.com.ua/api/';
+    const API_URL           = 'https://api.gercpay.com.ua/api/';
     const FIELDS_DELIMITER  = ';';
     const DEFAULT_CHARSET   = 'utf8';
     const MODE_PURCHASE     = 'Purchase';
